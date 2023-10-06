@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 60px;
+  background-color: var(--primary);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.header h1 {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  /* font-family: "McLaren", cursive; */
+  /* font-family: 'SourceSans3', sans-serif; */
+  /* font-family: 'Courgette', cursive; */
+  font-weight: 900;
+  /* font-style: italic; */
+}
+
+.header h1 svg {
+  width: 42px;
+  height: 42px;
+  margin: 0 3px;
+  padding: 8px;
+}

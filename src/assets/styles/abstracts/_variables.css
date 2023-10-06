@@ -1,0 +1,15 @@
+:root {
+  /* --primary: #4137d7; */
+  --primary: #006AB2;
+  --primary-light: #007fd4;
+  --primary-dark: #015b99;
+  --white: #ffffff;
+  --color-gray-light-1: #f7f7f7;
+  --color-gray-dark: #777;
+  --color-gray-dark-2: #656565;
+
+  --error: #e10000;
+  --phone: max-width: 37.5em;
+  --tab-port: max-width: 56.25em;
+  --tab-land: max-width: 75em;
+}

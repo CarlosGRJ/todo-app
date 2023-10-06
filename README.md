@@ -1,3 +1,29 @@
+# To-Do App with React + TypeScript
+
+![App Screenshot](todoApp_Screenshot.png)
+
+A simple and user-friendly To-Do app built using React. Manage your tasks efficiently and stay organized.
+
+## Table of Contents
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+You can try the app live at [TodoAppDemo.com](https://www.todoappdemo.com).
+
+## Features
+
+- Add, edit, and delete tasks
+- Mark tasks as complete
+- Filter tasks by status (All, Active, Completed)
+- Data persists in local storage
+- Mobile-responsive design
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 2.8rem;
+    padding: .6rem;
+}
+
+.footer p {
+    color: var(--color-gray-dark);
+}
